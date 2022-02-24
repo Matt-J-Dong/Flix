@@ -20,6 +20,7 @@
 		7177FC9727BF220C003EEC1D /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7177FC9627BF220C003EEC1D /* MoviesViewController.swift */; };
 		7177FC9927BF256D003EEC1D /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7177FC9827BF256D003EEC1D /* MovieCell.swift */; };
 		717AA6A327C04D7700DFF2EA /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = 717AA6A227C04D7700DFF2EA /* AlamofireImage */; };
+		71D5D13027C849F200B16203 /* MovieGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D5D12F27C849F200B16203 /* MovieGridCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		7177FC4627BF1DCC003EEC1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7177FC9627BF220C003EEC1D /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		7177FC9827BF256D003EEC1D /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		71D5D12F27C849F200B16203 /* MovieGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				7177FC9627BF220C003EEC1D /* MoviesViewController.swift */,
 				7177FC9827BF256D003EEC1D /* MovieCell.swift */,
 				7108EE9D27C5AB6C0040BF80 /* MovieDetailsViewController.swift */,
+				71D5D12F27C849F200B16203 /* MovieGridCell.swift */,
 			);
 			path = FlixCodingProject;
 			sourceTree = "<group>";
@@ -282,6 +285,7 @@
 				7177FC2327BF1DCB003EEC1D /* AppDelegate.swift in Sources */,
 				7108EE9E27C5AB6C0040BF80 /* MovieDetailsViewController.swift in Sources */,
 				7108EEA027C5BA370040BF80 /* MovieGridViewController.swift in Sources */,
+				71D5D13027C849F200B16203 /* MovieGridCell.swift in Sources */,
 				7177FC2527BF1DCB003EEC1D /* SceneDelegate.swift in Sources */,
 				7177FC9927BF256D003EEC1D /* MovieCell.swift in Sources */,
 				7177FC9727BF220C003EEC1D /* MoviesViewController.swift in Sources */,
