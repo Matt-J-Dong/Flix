@@ -152,7 +152,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="X0i-Ka-9gd" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="938" y="-613"/>
+            <point key="canvasLocation" x="936.79999999999995" y="-613.04347826086962"/>
         </scene>
         <!--Now Playing-->
         <scene sceneID="Dg4-Hz-jCi">
@@ -161,7 +161,6 @@
                     <tabBarItem key="tabBarItem" title="Now Playing" image="now_playing_tabbar_item" id="CM2-jt-TzK"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="7Jn-3s-JIs">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
@@ -180,7 +179,6 @@
                     <tabBarItem key="tabBarItem" title="Superhero" image="superhero_tabbar_item" id="iIS-TO-JdW"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="KeY-P3-s79">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
